@@ -1,5 +1,11 @@
 # Protesto Web
 
+# Acekeração Global Dev#11 Avanade - ReactJs
+
+## Workshop 2 - Criando soluções com alto nível de cobertura de testes com Jest
+
+### Ministrado por: Nilton Souza
+
 ### Estrutura de Requisições da API
 
 <hr/>
