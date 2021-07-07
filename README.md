@@ -1,6 +1,6 @@
 # Protesto Web
 
-# Acekeração Global Dev#11 Avanade - ReactJs
+# Aceleração Global Dev#11 Avanade - ReactJs
 
 ## Workshop 2 - Criando soluções com alto nível de cobertura de testes com Jest
 
